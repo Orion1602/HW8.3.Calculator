@@ -13,3 +13,5 @@ elif operation == "/":
     print(int(var_a)/int(var_b))
 elif operation == "*":
     print(int(var_a)*int(var_b))
+else:
+    print("Ups. Irgendetwas ist da schiefgelaufen!!")
